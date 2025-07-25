@@ -75,7 +75,7 @@ Tu peux l’utiliser, le modifier et le distribuer librement, même à des fins 
 
 ✨ Auteur
 
-> Ny Aina Martin Tahiry
+> TAHIRY Ny Aina Martin
 Développeur Python, passionné de projets ludiques et d'automatisation.
 
 
